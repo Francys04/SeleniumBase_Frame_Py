@@ -1,0 +1,6 @@
+#!C:\Users\Phantom\Desktop\Python project\SeleniuBse_Frame_Autom\env\Scripts\python.exe
+
+from nose import main
+
+if __name__ == '__main__':
+    main()
