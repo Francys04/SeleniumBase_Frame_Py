@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2675a26e-62c1-4690-82f9-da40ca05d462" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/live.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pytest_style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dashboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/seleniumbase/drivers/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/seleniumbase/drivers/msedgedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page_objects/shop_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_shop.py" afterDir="false" />
+    <list default="true" id="2675a26e-62c1-4690-82f9-da40ca05d462" name="Changes" comment="commit1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +53,14 @@
       <option name="presentableId" value="Default" />
       <updated>1688399859361</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit1">
+      <created>1688485410223</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688485410223</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,5 +76,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="commit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit1" />
   </component>
 </project>
