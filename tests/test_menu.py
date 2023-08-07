@@ -1,4 +1,10 @@
+"""This line imports the HomeTest class from the test_home module located in the tests package. 
+This suggests that there is a test suite or set of test cases related to the home page, 
+and the HomeTest class likely contains the test methods for those cases."""
 from tests.test_home import HomeTest
+"""This line imports the HomePAge class from the home_page module located in the page_objects package. 
+This suggests that there is a Page Object model being used in the test automation project, 
+and the HomePAge class likely represents the Page Object for the home page of the application being tested."""
 from page_objects.home_page import HomePAge
 # from seleniumbase import BaseCase
 

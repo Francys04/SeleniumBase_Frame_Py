@@ -1,4 +1,4 @@
-# put in selectors for call the operations of the test_shop
+"""# put in selectors for call the operations of the test_shop"""
 from seleniumbase import BaseCase
 
 

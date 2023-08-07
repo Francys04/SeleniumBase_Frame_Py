@@ -1,4 +1,3 @@
-
 '''live reloading of resources in a web page, script that dynamically loads and updates resources'''
 (function () {
     var headers = {
