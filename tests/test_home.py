@@ -1,5 +1,4 @@
 # import all functionalities for open the driver of chrome bw
-from seleniumbase import BaseCase
 from page_objects.home_page import HomePAge
 
 
@@ -8,7 +7,6 @@ class HomeTest(HomePAge):
     def setUp(self):
         super().setUp()
         print("run before")
-
         # open home page => set url and run the test
         self.open_page()
 

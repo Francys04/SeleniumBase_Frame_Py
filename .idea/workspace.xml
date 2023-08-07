@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2675a26e-62c1-4690-82f9-da40ca05d462" name="Changes" comment="commit1">
+    <list default="true" id="2675a26e-62c1-4690-82f9-da40ca05d462" name="Changes" comment="commit2">
+      <change afterPath="$PROJECT_DIR$/latest_logs/tests.test_cart.CartTest.test_add_to_cart/basic_test_info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latest_logs/tests.test_cart.CartTest.test_add_to_cart/page_source.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latest_logs/tests.test_cart.CartTest.test_add_to_cart/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SeleniuBse_Frame_Autom.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SeleniuBse_Frame_Autom.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/live.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_cart.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_cart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_home.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_home.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,14 +38,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Phantom/Desktop/Python project/SeleniuBse_Frame_Autom&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Phantom\Desktop\Python project\SeleniuBse_Frame_Autom" />
@@ -60,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688485410223</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit2">
+      <created>1688488469225</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688488469225</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,6 +93,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commit1" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit1" />
+    <MESSAGE value="commit2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit2" />
   </component>
 </project>

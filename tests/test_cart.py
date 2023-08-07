@@ -4,7 +4,6 @@ from selenium.webdriver.common.keys import Keys
 
 
 class CartTest(CartPage):
-
     def setUp(self):
         super().setUp()
         self.open("https://practice.automationbro.com/shop")

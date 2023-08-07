@@ -1,4 +1,5 @@
 
+'''live reloading of resources in a web page, script that dynamically loads and updates resources'''
 (function () {
     var headers = {
     "Etag": 1, "Last-Modified": 1, "Content-Length": 1, "Content-Type": 1 },
@@ -12,11 +13,12 @@
     var Live = {
     heartbeat: function () {
         if (document.body) {
-            if (!loaded) Live.loadresources();
+            if (!loaded) Live.load-resources();
             Live.checkForChanges();
         }
         setTimeout(Live.heartbeat, interval);
     },
+
     loadresources: function () {
         function isLocal(url) {
             var loc = document.location,
