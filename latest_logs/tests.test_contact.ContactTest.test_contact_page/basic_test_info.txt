@@ -1,0 +1,27 @@
+tests/test_contact.py::ContactTest::test_contact_page
+--------------------------------------------------------------------
+Last Page: https://sdetunicorns.com/contact-us/
+ Duration: 20.16s
+  Browser: Chrome 114.0.5735.199
+   Driver: chromedriver 114.0.5735.90
+Timestamp: 1690215062  (Unix Timestamp)
+     Date: Monday, 24 July 2023
+     Time: 7:11:02 PM  (GTB Daylight Time, UTC+03:00)
+--------------------------------------------------------------------
+Traceback:
+  File "C:\Users\Phantom\Desktop\Python project\SeleniuBse_Frame_Autom\tests\test_contact.py", line 10, in test_contact_page
+    self.send_keys('contact-name input', 'alex')
+  File "C:\Users\Phantom\Desktop\Python project\SeleniuBse_Frame_Autom\env\Lib\site-packages\seleniumbase\fixtures\base_case.py", line 1064, in send_keys
+    self.add_text(selector, text, by=by, timeout=timeout)
+  File "C:\Users\Phantom\Desktop\Python project\SeleniuBse_Frame_Autom\env\Lib\site-packages\seleniumbase\fixtures\base_case.py", line 979, in add_text
+    element = self.wait_for_element_visible(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Phantom\Desktop\Python project\SeleniuBse_Frame_Autom\env\Lib\site-packages\seleniumbase\fixtures\base_case.py", line 8066, in wait_for_element_visible
+    return page_actions.wait_for_element_visible(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Phantom\Desktop\Python project\SeleniuBse_Frame_Autom\env\Lib\site-packages\seleniumbase\fixtures\page_actions.py", line 465, in wait_for_element_visible
+    timeout_exception(NoSuchElementException, message)
+  File "C:\Users\Phantom\Desktop\Python project\SeleniuBse_Frame_Autom\env\Lib\site-packages\seleniumbase\fixtures\page_actions.py", line 228, in timeout_exception
+    raise exc(msg)
+Exception: Message: 
+ Element {contact-name input} was not present after 10 seconds!
